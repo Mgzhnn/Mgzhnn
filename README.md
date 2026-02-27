@@ -2,11 +2,11 @@
 
 # Magzhan Ziyabek
 
-Machine Learning | Deep Learning | Digital Logic Design
+Machine Learning | Deep Learning | AI Hardware | Digital Logic Design | Embedded Systems
 
 </div>
 
-I build practical, reproducible projects focused on understanding systems from fundamentals to implementation.
+Trying to build practical projects focused on understanding systems from fundamentals to implementation.
 
 ## Focus
 - Machine learning and deep learning through hands-on experiments
