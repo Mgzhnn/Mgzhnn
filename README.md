@@ -1,7 +1,5 @@
 # Magzhan Ziyabek
 
-Machine Learning, Deep Learning, and Digital Logic Design.
-
 ## Focus
 
 - Building ML/DL fundamentals through hands-on projects.
