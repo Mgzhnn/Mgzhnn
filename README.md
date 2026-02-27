@@ -15,3 +15,4 @@ Python, C++, VHDL, PyTorch
 ## Project
 
 - [it-ml](https://github.com/Mgzhnn/it-ml): Chapter-by-chapter ML practice notebooks.
+- [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD): Diffusion-model experiments on the IDRiD dataset.
