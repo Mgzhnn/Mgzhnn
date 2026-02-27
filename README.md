@@ -15,7 +15,3 @@ Python, C++, VHDL, PyTorch
 ## Project
 
 - [it-ml](https://github.com/Mgzhnn/it-ml): Chapter-by-chapter ML practice notebooks.
-
-## Outside Work
-
-Volleyball, cooking, and Arsenal.
