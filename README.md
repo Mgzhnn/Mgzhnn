@@ -1,16 +1,23 @@
+<div align="center">
+
 # Magzhan Ziyabek
 
+Machine Learning | Deep Learning | Digital Logic Design
+
+</div>
+
+I build practical, reproducible projects focused on understanding systems from fundamentals to implementation.
+
 ## Focus
+- Machine learning and deep learning through hands-on experiments
+- Diffusion-based anomaly detection for medical imaging
+- Digital logic design with VHDL
 
-- Building ML/DL fundamentals through hands-on projects.
-- Practicing digital logic design with VHDL.
-- Keeping projects small, clear, and reproducible.
+## Tech
+`Python` `PyTorch` `C++` `VHDL`
 
-## Stack
-
-Python, C++, VHDL, PyTorch
-
-## Project
-
-- [it-ml](https://github.com/Mgzhnn/it-ml): Chapter-by-chapter Hands-on Machine Learning with PyTorch practice notebooks.
-- [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD): Diffusion-model experiments on the IDRiD dataset.
+## Featured Projects
+- [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD)  
+  IDRiD-focused adaptation of THOR_DDPM for diffusion-based retinal anomaly detection.
+- [it-ml](https://github.com/Mgzhnn/it-ml)  
+  Chapter-by-chapter Hands-on Machine Learning with PyTorch practice notebooks.
