@@ -16,7 +16,7 @@
   <a href="https://github.com/Mgzhnn">
     <img src="https://img.shields.io/badge/GitHub-Mgzhnn-1f2937?style=for-the-badge&logo=github" alt="GitHub profile badge" />
   </a>
-  <a href="https://raw.githubusercontent.com/Mgzhnn/Mgzhnn/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Mgzhnn/Mgzhnn/blob/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CV-Open%20PDF-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open CV PDF" />
   </a>
 </p>
@@ -44,7 +44,7 @@
 </p>
 
 ## CV
-- <a href="https://raw.githubusercontent.com/Mgzhnn/Mgzhnn/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a>
+- <a href="https://github.com/Mgzhnn/Mgzhnn/blob/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a>
 
 ## Featured Projects
 | Project | Description |
