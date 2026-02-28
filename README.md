@@ -27,7 +27,7 @@
 - Diffusion-based anomaly detection for medical imaging
 - Hands-on deep learning experiments with PyTorch
 - Digital logic design using VHDL
-- C++ systems programming and OOP project work
+- System design using C++/C
 
 ## Tech Stack
 <p>
