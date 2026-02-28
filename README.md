@@ -5,11 +5,11 @@
 <h1 align="center">Magzhan Ziyabek</h1>
 
 <p align="center">
-  <code>Machine Learning</code>
-  <code>Deep Learning</code>
-  <code>AI Hardware</code>
+  <code>System Architecture</code>
+  <code>C/C++ Engineering</code>
+  <code>Applied ML</code>
   <code>Digital Logic</code>
-  <code>Embedded Systems</code>
+  <code>Embedded Thinking</code>
 </p>
 
 <p align="center">
@@ -19,22 +19,22 @@
 </p>
 
 ## About
-- Building practical projects from fundamentals to implementation.
-- Interested in end-to-end systems: model design, training, and deployment constraints.
-- Exploring how software and hardware decisions shape real AI performance.
+- I build practical systems from low-level structure to complete working software.
+- My work combines algorithm thinking with implementation discipline.
+- I care about performance, clarity, and reproducible engineering workflows.
 
 ## Current Focus
 - Diffusion-based anomaly detection for medical imaging
-- Hands-on deep learning experiments with PyTorch
-- Digital logic design using VHDL
-- System design using C++/C
+- Real-world deep learning experiments with PyTorch
+- Digital logic design and verification with VHDL
+- System design and architecture using C/C++
 
 ## Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-2a9d8f?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-e76f51?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/C++-264653?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/VHDL-6d597a?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-b45309?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/C/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/VHDL-334155?style=for-the-badge" alt="VHDL" />
 </p>
 
 ## Featured Projects
