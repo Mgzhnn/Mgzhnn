@@ -7,7 +7,7 @@
 <p align="center">
   <code>System Architecture</code>
   <code>C/C++ Engineering</code>
-  <code>Applied ML</code>
+  <code>Applied AI</code>
   <code>Digital Logic</code>
   <code>Embedded Thinking</code>
 </p>
@@ -16,15 +16,10 @@
   <a href="https://github.com/Mgzhnn">
     <img src="https://img.shields.io/badge/GitHub-Mgzhnn-1f2937?style=for-the-badge&logo=github" alt="GitHub profile badge" />
   </a>
-  <a href="https://github.com/Mgzhnn/Mgzhnn/blob/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CV-Open%20PDF-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open CV PDF" />
+  <a href="https://raw.githubusercontent.com/Mgzhnn/Mgzhnn/main/assets/Magzhan_Ziyabek_CV.pdf" download="Magzhan_Ziyabek_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download%20PDF-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV PDF" />
   </a>
 </p>
-
-## About
-- I build practical systems from low-level structure to complete working software.
-- My work combines algorithm thinking with implementation discipline.
-- I care about performance, clarity, and reproducible engineering workflows.
 
 ## Current Focus
 - Diffusion-based anomaly detection for medical imaging
@@ -42,9 +37,6 @@
   <img src="https://img.shields.io/badge/C/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/VHDL-334155?style=for-the-badge" alt="VHDL" />
 </p>
-
-## CV
-- <a href="https://github.com/Mgzhnn/Mgzhnn/blob/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a>
 
 ## Featured Projects
 | Project | Description |
