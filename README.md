@@ -16,6 +16,9 @@
   <a href="https://github.com/Mgzhnn">
     <img src="https://img.shields.io/badge/GitHub-Mgzhnn-1f2937?style=for-the-badge&logo=github" alt="GitHub profile badge" />
   </a>
+  <a href="https://github.com/Mgzhnn/Mgzhnn/blob/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CV-Open%20PDF-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open CV PDF" />
+  </a>
 </p>
 
 ## About
@@ -33,9 +36,15 @@
 <p>
   <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-b45309?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-f59e0b?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-1f2937?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/C/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/VHDL-334155?style=for-the-badge" alt="VHDL" />
 </p>
+
+## CV
+- <a href="https://github.com/Mgzhnn/Mgzhnn/blob/main/assets/Magzhan_Ziyabek_CV.pdf" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a>
 
 ## Featured Projects
 | Project | Description |
