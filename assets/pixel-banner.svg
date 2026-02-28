@@ -45,7 +45,6 @@
 
   <g font-family="'Courier New', monospace">
     <text x="106" y="162" font-size="72" font-weight="700" fill="#e6fff8">MGZHNN</text>
-    <text x="108" y="206" font-size="28" fill="#79f5ea">ARCHITECTING SYSTEMS IN C/C++</text>
-    <text x="108" y="242" font-size="22" fill="#ffd08a">ML + EMBEDDED + LOGIC DESIGN</text>
+    <text x="108" y="226" font-size="22" fill="#ffd08a">ML + EMBEDDED + LOGIC DESIGN</text>
   </g>
 </svg>
