@@ -29,12 +29,19 @@
 
 ## Tech Stack
 <p>
+  <strong>Python / AI</strong><br/>
   <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-b45309?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-f59e0b?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-1f2937?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+<p>
+  <strong>Systems</strong><br/>
   <img src="https://img.shields.io/badge/C/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+</p>
+<p>
+  <strong>Hardware</strong><br/>
   <img src="https://img.shields.io/badge/VHDL-334155?style=for-the-badge" alt="VHDL" />
 </p>
 
