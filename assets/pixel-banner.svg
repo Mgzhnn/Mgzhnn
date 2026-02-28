@@ -59,7 +59,6 @@
 
   <g font-family="'Courier New', monospace" fill="#f8f9fa">
     <text x="120" y="170" font-size="60" font-weight="700">MGZHNN</text>
-    <text x="122" y="214" font-size="26" fill="#cde7ff">PIXEL BUILD MODE</text>
-    <text x="122" y="252" font-size="20" fill="#90f1ef">Machine Learning x Systems x Hardware</text>
+    <text x="122" y="224" font-size="20" fill="#90f1ef">Machine Learning x Systems x Hardware</text>
   </g>
 </svg>
