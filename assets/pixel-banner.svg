@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel style profile banner</title>
+  <desc id="desc">Retro inspired pixel vibe banner for GitHub profile.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1021" />
+      <stop offset="55%" stop-color="#1b2543" />
+      <stop offset="100%" stop-color="#3d315b" />
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffd166" />
+      <stop offset="100%" stop-color="#f77f00" />
+    </linearGradient>
+  </defs>
+
+  <g shape-rendering="crispEdges">
+    <rect width="1280" height="360" fill="url(#sky)" />
+
+    <rect x="940" y="40" width="170" height="170" fill="url(#sun)" />
+    <rect x="950" y="50" width="150" height="150" fill="#ffbe0b" />
+    <rect x="960" y="60" width="130" height="130" fill="#ffcf56" />
+
+    <rect x="120" y="70" width="8" height="8" fill="#d9edff" />
+    <rect x="220" y="120" width="8" height="8" fill="#d9edff" />
+    <rect x="320" y="90" width="8" height="8" fill="#d9edff" />
+    <rect x="470" y="140" width="8" height="8" fill="#d9edff" />
+    <rect x="600" y="85" width="8" height="8" fill="#d9edff" />
+    <rect x="700" y="150" width="8" height="8" fill="#d9edff" />
+    <rect x="820" y="95" width="8" height="8" fill="#d9edff" />
+    <rect x="1130" y="120" width="8" height="8" fill="#d9edff" />
+
+    <rect x="40" y="240" width="70" height="120" fill="#1f1f2e" />
+    <rect x="120" y="210" width="80" height="150" fill="#22223b" />
+    <rect x="210" y="255" width="60" height="105" fill="#1f1f2e" />
+    <rect x="280" y="190" width="100" height="170" fill="#2c2c54" />
+    <rect x="390" y="245" width="70" height="115" fill="#1f1f2e" />
+    <rect x="470" y="215" width="90" height="145" fill="#22223b" />
+    <rect x="570" y="235" width="85" height="125" fill="#1f1f2e" />
+    <rect x="665" y="200" width="95" height="160" fill="#2c2c54" />
+    <rect x="770" y="248" width="75" height="112" fill="#1f1f2e" />
+    <rect x="855" y="220" width="88" height="140" fill="#22223b" />
+    <rect x="953" y="242" width="65" height="118" fill="#1f1f2e" />
+    <rect x="1028" y="198" width="92" height="162" fill="#2c2c54" />
+    <rect x="1130" y="236" width="72" height="124" fill="#1f1f2e" />
+    <rect x="1210" y="214" width="55" height="146" fill="#22223b" />
+
+    <rect x="130" y="300" width="1020" height="6" fill="#00f5d4" />
+    <rect x="130" y="312" width="1020" height="6" fill="#00bbf9" />
+    <rect x="130" y="324" width="1020" height="6" fill="#9b5de5" />
+
+    <rect x="86" y="58" width="8" height="8" fill="#00f5d4" />
+    <rect x="94" y="58" width="8" height="8" fill="#00f5d4" />
+    <rect x="102" y="58" width="8" height="8" fill="#00f5d4" />
+    <rect x="86" y="66" width="8" height="8" fill="#00f5d4" />
+    <rect x="86" y="74" width="8" height="8" fill="#00f5d4" />
+    <rect x="94" y="74" width="8" height="8" fill="#00f5d4" />
+    <rect x="102" y="74" width="8" height="8" fill="#00f5d4" />
+  </g>
+
+  <g font-family="'Courier New', monospace" fill="#f8f9fa">
+    <text x="120" y="170" font-size="60" font-weight="700">MGZHNN</text>
+    <text x="122" y="214" font-size="26" fill="#cde7ff">PIXEL BUILD MODE</text>
+    <text x="122" y="252" font-size="20" fill="#90f1ef">Machine Learning x Systems x Hardware</text>
+  </g>
+</svg>
