@@ -16,7 +16,6 @@
   <a href="https://github.com/Mgzhnn">
     <img src="https://img.shields.io/badge/GitHub-Mgzhnn-1f2937?style=for-the-badge&logo=github" alt="GitHub profile badge" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20DL%20%7C%20Systems-0f766e?style=for-the-badge" alt="Focus badge" />
 </p>
 
 ## About
@@ -44,13 +43,3 @@
 | [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD) | IDRiD-focused adaptation of THOR_DDPM for diffusion-based retinal anomaly detection. |
 | [it-ml](https://github.com/Mgzhnn/it-ml) | Chapter-by-chapter practice notebooks based on hands-on ML material. |
 | [OOP-Project---ATM-Machine](https://github.com/Mgzhnn/OOP-Project---ATM-Machine) | Console ATM simulation in C++ with multi-bank, bilingual flow, and transaction history features. |
-
-## Terminal Status
-```txt
-profile.mode = "pixel"
-build.state  = "learning by building"
-next.target  = "stronger ML + systems depth"
-```
-
-## Connect
-- GitHub: https://github.com/Mgzhnn
