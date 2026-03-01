@@ -48,6 +48,7 @@
 ## Featured Projects
 | Project | Description |
 | --- | --- |
+| [Low-Level-Calculator](https://github.com/Mgzhnn/Low-Level-Calculator) | 4-bit signed calculator in VHDL with add/sub/mul/div, Euclidean division adjustment, and seven-segment display pipeline. |
 | [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD) | IDRiD-focused adaptation of THOR_DDPM for diffusion-based retinal anomaly detection. |
 | [it-ml](https://github.com/Mgzhnn/it-ml) | Chapter-by-chapter practice notebooks based on hands-on ML material. |
 | [OOP-Project---ATM-Machine](https://github.com/Mgzhnn/OOP-Project---ATM-Machine) | Console ATM simulation in C++ with multi-bank, bilingual flow, and transaction history features. |
