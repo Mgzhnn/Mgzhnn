@@ -5,11 +5,8 @@
 <h1 align="center">Magzhan Ziyabek</h1>
 
 <p align="center">
-  <code>System Architecture</code>
-  <code>C/C++ Engineering</code>
   <code>Applied AI</code>
   <code>Digital Logic</code>
-  <code>Embedded Thinking</code>
 </p>
 
 <p align="center">
@@ -38,7 +35,7 @@
 </p>
 <p>
   <strong>Systems</strong><br/>
-  <img src="https://img.shields.io/badge/C/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 <p>
   <strong>Hardware</strong><br/>
