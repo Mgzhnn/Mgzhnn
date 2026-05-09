@@ -7,6 +7,7 @@
 <p align="center">
   <code>Applied AI</code>
   <code>Digital Logic</code>
+  <code>Systems</code>
 </p>
 
 <p align="center">
@@ -21,7 +22,7 @@
 ## Current Focus
 - Diffusion-based anomaly detection for medical imaging
 - Real-world deep learning experiments with PyTorch
-- Digital logic design and verification with VHDL
+- Digital logic design and verification with VHDL and Verilog
 - System design and architecture using C/C++
 
 ## Tech Stack
@@ -35,16 +36,19 @@
 </p>
 <p>
   <strong>Systems</strong><br/>
+  <img src="https://img.shields.io/badge/C-0f766e?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 <p>
   <strong>Hardware</strong><br/>
   <img src="https://img.shields.io/badge/VHDL-334155?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Verilog-b45309?style=for-the-badge" alt="Verilog" />
 </p>
 
 ## Featured Projects
 | Project | Description |
 | --- | --- |
+| [verilog-16-bit-cpu-design](https://github.com/Mgzhnn/verilog-16-bit-cpu-design) | 16-bit CPU design in Verilog with register file, ALU, decoder, program counter, memory interface, and ModelSim testbenches. |
 | [Low-Level-Calculator](https://github.com/Mgzhnn/Low-Level-Calculator) | 4-bit signed calculator in VHDL with add/sub/mul/div, Euclidean division adjustment, and seven-segment display pipeline. |
 | [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD) | IDRiD-focused adaptation of THOR_DDPM for diffusion-based retinal anomaly detection. |
 | [it-ml](https://github.com/Mgzhnn/it-ml) | Chapter-by-chapter practice notebooks based on hands-on ML material. |
