@@ -20,8 +20,9 @@
 </p>
 
 ## Current Focus
+- Applied AI
 - Diffusion Models for Medicine
-- Digital Logic Design and Architecture
+- Digital Logic Design and Hardware Architecture
 
 ## Tech Stack
 <p>
