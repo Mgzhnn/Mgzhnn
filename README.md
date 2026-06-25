@@ -20,10 +20,8 @@
 </p>
 
 ## Current Focus
-- Diffusion-based anomaly detection for medical imaging
-- Real-world deep learning experiments with PyTorch
-- Digital logic design and verification with VHDL and Verilog
-- System design and architecture using C/C++
+- Diffusion Models for Medicine
+- Digital Logic Design and Architecture
 
 ## Tech Stack
 <p>
@@ -38,6 +36,7 @@
   <strong>Systems</strong><br/>
   <img src="https://img.shields.io/badge/C-0f766e?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-0ea5e9?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 <p>
   <strong>Hardware</strong><br/>
