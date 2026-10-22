@@ -1,0 +1,265 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{iftex}
+% glyphtounicode is pdfTeX-only; XeTeX/LuaTeX produce searchable text natively.
+\ifPDFTeX
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+% Running header on pages 2+ (surname + page number).
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\small Ziyabek \textbar{} \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+\setlength{\headheight}{14pt}
+\setlength{\footskip}{8pt}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{%
+  \item\small{#1}
+}
+
+\newcommand{\resumeSubheading}[4]{%
+  \vspace{0pt}\item
+  \begin{tabular*}{0.97\linewidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+  \end{tabular*}\vspace{-2pt}
+  \begin{tabularx}{0.97\linewidth}[t]{@{}X@{\hspace{1em}}r@{}}
+    \textit{\small #3} & \textit{\small #4} \\
+  \end{tabularx}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{%
+  \item
+  \begin{tabular*}{0.97\linewidth}{l@{\extracolsep{\fill}}r}
+    \textit{\small #1} & \textit{\small #2} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{%
+  \item
+  \begin{tabular*}{0.97\linewidth}{l@{\extracolsep{\fill}}r}
+    \small #1 & #2 \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-1pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{%
+  \begin{itemize}[leftmargin=0.15in,label={}]\setlength\itemsep{3pt}
+}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\newcommand{\resumeItemListStart}{%
+  \begin{itemize}\setlength\itemsep{0pt}
+}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-3pt}}
+
+% Resume content
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{center}
+  \textbf{\Huge Magzhan Ziyabek} \\ \vspace{4pt}
+  \small
+  Daegu, South Korea
+  \;\textbar{}\;
+  \href{mailto:ziyabekmagzzhan@gmail.com}{ziyabekmagzzhan@gmail.com}
+  \;\textbar{}\;
+  \href{https://github.com/Mgzhnn}{github.com/Mgzhnn}
+\end{center}
+
+% Education
+\section{Education}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {Daegu Gyeongbuk Institute of Science and Technology (DGIST)}{Daegu, KR}
+    {B.S. in Computer Science and B.E. in Electronics Engineering (English-taught) \textbar{} GPA: 3.84/4.3}{Aug. 2024 to Present}
+
+  \resumeSubheading
+    {Stanford University}{Stanford, CA, USA}
+    {Visiting Summer Student \textbar{} Data Structures; Financial Decision-Making}{Summer 2025}
+
+  \resumeSubheading
+    {Jambyl Innovation High College}{Taraz, KZ}
+    {Diploma in Mathematics Education (English-taught) \textbar{} GPA: 4.0/4.0}{Sept. 2020 to July 2024}
+
+\resumeSubHeadingListEnd
+
+% Research experience
+\section{Research Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {Soft Augmented Intelligence Lab (SAIL), DGIST}{Daegu, KR}
+    {Undergraduate Researcher \textbar{} Grasp-Intention Inference for Bimanual Soft Gloves}{Aug. 2026 to Present}
+    \resumeItemListStart
+      \resumeItem{Built a head-mounted RGB-D pipeline that infers from motion alone when each hand of a soft-glove wearer reaches to grasp: 3-D hand points, SAM~2 objects over a table plane, offline grasp proposals.}
+      \resumeItem{Defined the evaluation (first-proposal timing vs. reach onsets, unwanted-proposal burden) and fine-tuned the hand detector for gloves: 92 of 96 gloved hands found on an untouched clip (0 before).}
+    \resumeItemListEnd
+    \resumeSubSubheading
+      {Summer Research Intern \textbar{} Lab Automation Systems}{Jul. 2026}
+    \resumeItemListStart
+      \resumeItem{Built and deployed a multi-agent automation system used daily by an eight-person lab. Researchers submit requests through Slack or Notion; the system runs scheduled jobs, health checks and recovery, versioned backups, and audit logs.}
+      \resumeItem{Automated procurement and documentation tasks, including Korean-to-English wiki mirroring, document summaries, vendor and part research, receipt OCR, and purchase paperwork. Cut 2 to 3 hours of manual work per purchase down to one review step.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {AI-Vision Lab, DGIST Research Institute}{Daegu, KR}
+    {AI Star Fellow (Mar. to Jun.); Research Intern (Jan.) \textbar{} Medical Anomaly Detection}{Jan. 2026 to Jun. 2026}
+    \resumeItemListStart
+      \resumeItem{Implemented THOR, a diffusion-based anomaly detection pipeline, on 450+ retinal fundus images from Seoul Hospital. Generated pixel-level anomaly maps for unsupervised lesion localization.}
+      \resumeItem{Added field-of-view masking and morphological erosion to reduce false positives caused by imaging artifacts at the retinal boundary.}
+      \resumeItem{Achieved an AUROC of 0.81 for image-level detection of diabetic retinopathy versus normal images, without lesion annotations.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Undergraduate Group Research Program (UGRP), DGIST}{Daegu, KR}
+    {Undergraduate Researcher \textbar{} Continual Learning}{Jan. 2026 to Present}
+    \resumeItemListStart
+      \resumeItem{Received KRW~7M in competitive funding for a study of catastrophic forgetting in CNNs and Vision Transformers trained on sequential tasks.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+% Teaching experience
+
+\section{Teaching Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {DGIST, School of Undergraduate Studies}{Daegu, KR}
+    {Undergraduate Teaching Assistant}{Aug. 2025 to Present}
+    \resumeItemListStart
+      \resumeItem{\textit{Introduction to Programming} (Aug. 2026 to Present): run Python lab sessions and help students work through programming exercises.}
+      \resumeItem{\textit{Single Variable Calculus} (Aug. 2025 to Jan. 2026): graded weekly assignments and quizzes, held office hours, and led MATLAB recitation sessions.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Secondary Mathematics Instruction}{Taraz, KZ}
+    {Teaching Intern and Mathematics Olympiad Coach}{Apr. 2023 to Mar. 2024}
+    \resumeItemListStart
+      \resumeItem{Taught algebra and geometry to students in grades 7 to 9; coached students for Olympiad problems in combinatorics, geometry, and algebra.}
+      \resumeItem{Co-produced a 69-video, open-access YouTube series for grades 7 to 9. The series has 14,400+ views.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+% Projects
+\section{Projects}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading
+    {\textbf{\href{https://github.com/Mgzhnn/lineageguard}{LineageGuard}} \textbar{} TypeScript, npm}{}
+    \resumeItemListStart
+      \resumeItem{Open-source reliability layer for multi-agent AI systems that detects where a claim's evidence, meaning, or authority first changes across agent handoffs; zero runtime dependencies, published on npm.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{Memory Encryption Engine Performance Modeling} \textbar{} C++, Macsim}{}
+    \resumeItemListStart
+      \resumeItem{Implemented three memory security schemes in the Macsim architectural simulator (counter-mode encryption, per-cache-line MAC authentication, and Bonsai Merkle Tree replay protection), modeling metadata DRAM requests and critical-path latency across 16~GiB of physical memory.}
+      \resumeItem{Validated on a 4-core x86 out-of-order configuration, reproducing the expected 2$\times$, 3$\times$, and 10$\times$ DRAM traffic ratios with 1.51\%, 3.28\%, and 7.06\% execution-time overhead.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\href{https://github.com/Mgzhnn/verilog-16-bit-cpu-design}{Two-Stage In-Order RISC Processor}} \textbar{} Verilog, ModelSim}{}
+    \resumeItemListStart
+      \resumeItem{Designed a 16-bit two-stage (fetch/execute) RISC CPU with an 8-register file, CLA-based ALU, 4-stage bidirectional barrel shifter, and 5-bit FLCNZ status register.}
+      \resumeItem{Supported arithmetic, logic, shift, load/store, branch, jump, and JAL instructions with 16 branch conditions and NOP injection on taken branches; integrated and verified seven modules through full-program simulation.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\href{https://github.com/Mgzhnn/Low-Level-Calculator}{Hardware Calculator}} \textbar{} VHDL, Vivado, Artix-7 FPGA}{}
+    \resumeItemListStart
+      \resumeItem{Built a 4-bit signed (two's-complement) calculator for addition, subtraction, multiplication, and division without external arithmetic libraries.}
+      \resumeItem{Implemented iterative FSM-based multiplier and divider units with a start/done handshake and Euclidean sign correction, plus a seven-segment display driver; verified by testbench and synthesized for an Artix-7 board.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{CS:APP Systems Labs} \textbar{} C, x86-64 Assembly, GDB}{}
+    \resumeItemListStart
+      \resumeItem{\textit{Bomb Lab} and \textit{Attack Lab:} reverse-engineered x86-64 binaries in GDB, and exploited stack buffer overflows via code injection and return-oriented programming.}
+      \resumeItem{\textit{Malloc}, \textit{Shell} and \textit{Cache Labs:} implemented a custom allocator with free-list design, a Unix shell with job control and signal handling, and an LRU cache simulator with a locality-optimized matrix transpose.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\href{https://github.com/Mgzhnn/OOP-Project---ATM-Machine}{Multi-Bank ATM System}} \textbar{} C++}{}
+    \resumeItemListStart
+      \resumeItem{Designed a modular, object-oriented banking system using finite state machines, supporting multiple banks, account types, transaction history, and a bilingual command-line interface (group project).}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\href{https://github.com/Mgzhnn/sikgu}{Sikgu}} \textbar{} Shared food-order prototype \textbar{} AI Build Week Hackathon}{Jul. 2026}
+    \resumeItemListStart
+      \resumeItem{Built a prototype for creating shared order rooms and coordinating participants. Kept delivery and payment outside the app to avoid handling regulated transactions.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+% Awards
+\section{Awards and Honors}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {AI Star Fellowship, DGIST AI-Vision Lab}{Daegu, KR}
+    {Competitive undergraduate research fellowship}{Mar. 2026 to Jun. 2026}
+
+  \resumeSubheading
+    {Dean's List, DGIST}{Daegu, KR}
+    {Semester GPA 4.25/4.3 (threshold $\ge$ 4.0)}{Fall 2024}
+
+  \resumeSubheading
+    {National Stand-up Talent Tournament, Kazakhstan}{Astana, KZ}
+    {1st place as team lead and scriptwriter; 1 of 10 finalist teams, performed for 1,200 attendees}{May 2024}
+
+\resumeSubHeadingListEnd
+
+% Leadership and outreach
+\section{Leadership and Outreach}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {DGIST International Student Ambassador}{Daegu, KR}
+    {Ambassador}{Sept. 2024 to Dec. 2024}
+    \resumeItemListStart
+      \resumeItem{Ran 6 admissions webinars (10 hours total) and answered questions from prospective international applicants in a group chat with 210+ members.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\end{document}

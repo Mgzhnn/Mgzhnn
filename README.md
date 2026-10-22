@@ -11,9 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mgzhnn">
-    <img src="https://img.shields.io/badge/GitHub-Mgzhnn-1f2937?style=for-the-badge&logo=github" alt="GitHub profile badge" />
-  </a>
   <a href="https://raw.githubusercontent.com/Mgzhnn/Mgzhnn/main/assets/Magzhan_Ziyabek_CV.pdf" download="Magzhan_Ziyabek_CV.pdf">
     <img src="https://img.shields.io/badge/CV-Download%20PDF-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV PDF" />
   </a>
@@ -21,7 +18,8 @@
 
 ## Current Focus
 - Applied AI
-- Diffusion Models for Medicine
+- Continual Learning — catastrophic forgetting in CNNs vs. Vision Transformers (DGIST UGRP)
+- Diffusion Models for Medical Anomaly Detection
 - Digital Logic Design and Hardware Architecture
 
 ## Tech Stack
@@ -37,7 +35,7 @@
   <strong>Systems</strong><br/>
   <img src="https://img.shields.io/badge/C-0f766e?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-0ea5e9?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 <p>
   <strong>Hardware</strong><br/>
@@ -48,8 +46,9 @@
 ## Featured Projects
 | Project | Description |
 | --- | --- |
+| [lineageguard](https://github.com/Mgzhnn/lineageguard) | Reliability control plane for AI agent handoffs in TypeScript: finds the first broken handoff, blocks unapproved tools and prepares the smallest safe retry. [Live site](https://lineageguard.ugrp44group.chatgpt.site) · [npm](https://www.npmjs.com/package/lineageguard) |
 | [verilog-16-bit-cpu-design](https://github.com/Mgzhnn/verilog-16-bit-cpu-design) | 16-bit CPU design in Verilog with register file, ALU, decoder, program counter, memory interface, and ModelSim testbenches. |
 | [Low-Level-Calculator](https://github.com/Mgzhnn/Low-Level-Calculator) | 4-bit signed calculator in VHDL with add/sub/mul/div, Euclidean division adjustment, and seven-segment display pipeline. |
-| [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD) | IDRiD-focused adaptation of THOR_DDPM for diffusion-based retinal anomaly detection. |
+| [THOR_DDPM_IDRiD](https://github.com/Mgzhnn/THOR_DDPM_IDRiD) | Adaptation of THOR_DDPM for diffusion-based anomaly detection on retinal fundus images. |
 | [it-ml](https://github.com/Mgzhnn/it-ml) | Chapter-by-chapter practice notebooks based on hands-on ML material. |
 | [OOP-Project---ATM-Machine](https://github.com/Mgzhnn/OOP-Project---ATM-Machine) | Console ATM simulation in C++ with multi-bank, bilingual flow, and transaction history features. |
